@@ -23,12 +23,12 @@ Con este estudio, se pretende realizar un análisis del comportamiento del usuar
 
 Se pretende con este análisis que la aplicación cuente con una serie de características que optimicen la experiencia de usuario. Algunos de los más importantes son:
 
-    -   Facilidad para el usuario de acceder al menú en un tiempo razonable.
-    -   Que este menú sea informativo de cada plato y sea fácil comprobar alérgenos.
-    -   Tener una apariencia atractiva basada en el anime japonés que sea interesante pero que no eclipse el propósito del restaurante, que es el de ofrecer comida.
-    -   Disponer de un formulario sencillo y accesible para la gestión de reservas.
-    -   Comprender los gustos del usuario para adaptar el menú.
-    -   Analizar qué comportamiento tienen los nuevos usuarios para atraer más usuarios.
+    - Facilidad para el usuario de acceder al menú en un tiempo razonable.
+    - Que este menú sea informativo de cada plato y sea fácil comprobar alérgenos.
+    - Tener una apariencia atractiva basada en el anime japonés que sea interesante pero que no eclipse el propósito del restaurante, que es el de ofrecer comida.
+    - Disponer de un formulario sencillo y accesible para la gestión de reservas.
+    - Comprender los gustos del usuario para adaptar el menú.
+    - Analizar qué comportamiento tienen los nuevos usuarios para atraer más usuarios.
 
 - **Experiencia del equipo / justificación**
 
@@ -58,6 +58,7 @@ ref: https://www.nngroup.com/articles/which-ux-research-methods/
 #### 3. Perfil de los Participantes (The "Who")
 
 Como se ha comentado previamente, distinguimos dos grupos de posibles usuarios, afines a la cultura del anime y personas ajenas a esta cultura. Se seleccionan **25 participantes** para entrevistar, distribuidos en:
+
     - **20 participantes interesados en el anime**, de edad joven ( 16-35 años ). Se asume cierto nivel de uso tecnológico, ya que generalmente este tipo de contenidos se consumen por internet. Además, de estos 20 participantes, se seleccionan 5 de origen japonés y 15 de origen no japonés, por cuestiones de mejor entendimiento de esta cultura. De estos 20 participantes, se tomarán dos personas con conocimientos de UX, que nos dará una visión más profesional.
     - **5 participantes no interesados en esta cultura**, de edad variable, 2 de ellos de edad joven ( 16-35 años), 2 de ellos en edad adulta ( 36 - 65) y 1 en edad avanzada ( +65 ). De esta forma analizamos el comportamiento de generaciones en las que normalmente hay diferencias de niveles en cuanto al uso de tecnologías.
 
@@ -72,24 +73,25 @@ Se van a tener en cuenta el nivel de competencia digital de cada persona para as
 
 En los experimentos donde el usuario tenga contacto con la aplicación, tenemos las siguientes tareas:
 
-    - Navegar libremente por la interfaz y preguntar por opinión, sus objetivos, en qué ha tenido éxito, en qué ha fracasado... etc.
-    - Buscar el menú y observar 5 productos de diferente categoría ( p.e. bebidas, ramen, postres...).
-    - Encontrar el horario y localización del establecimiento.
-    - Realizar una reserva y comprobar que se ha realizado con éxito.
-    - Encontrar el contacto del restaurante y sus redes sociales.
-    - Buscar y valorar opiniones de otros usuarios.
-    - Registrar una valoración.
-    - Buscar los alérgenos de ciertos platos en el menú.
+   - Navegar libremente por la interfaz y preguntar por opinión, sus objetivos, en qué ha tenido éxito, en qué ha fracasado... etc.
+   - Buscar el menú y observar 5 productos de diferente categoría ( p.e. bebidas, ramen, postres...).
+   - Encontrar el horario y localización del establecimiento.
+   - Realizar una reserva y comprobar que se ha realizado con éxito.
+   - Encontrar el contacto del restaurante y sus redes sociales.
+   - Buscar y valorar opiniones de otros usuarios.
+   - Registrar una valoración.
+   - Buscar los alérgenos de ciertos platos en el menú.
 
 
 
 #### 5. Cronograma y Entregables
 
-    - Análisis de competencia para evaluar ventajas y desventajas de nuestro producto frente a competidores.
-    - 2 Documentos "Personas" para conocer varios perfiles potenciales de usuarios.
-    - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
-    - Usability Report con mejoras de usabilidad.
+  - Análisis de competencia para evaluar ventajas y desventajas de nuestro producto frente a competidores.
+  - 2 Documentos "Personas" para conocer varios perfiles potenciales de usuarios.
+  - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
+  - Usability Report con mejoras de usabilidad.
 > 
+
 
 
 
