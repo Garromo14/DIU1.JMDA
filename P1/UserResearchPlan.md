@@ -60,8 +60,8 @@ ref: https://www.nngroup.com/articles/which-ux-research-methods/
 
 Como se ha comentado previamente, distinguimos dos grupos de posibles usuarios, afines a la cultura del anime y personas ajenas a esta cultura. Se seleccionan **25 participantes** para entrevistar, distribuidos en:
 
-    - **20 participantes interesados en el anime**, de edad joven ( 16-35 años ). Se asume cierto nivel de uso tecnológico, ya que generalmente este tipo de contenidos se consumen por internet. Además, de estos 20 participantes, se seleccionan 5 de origen japonés y 15 de origen no japonés, por cuestiones de mejor entendimiento de esta cultura. De estos 20 participantes, se tomarán dos personas con conocimientos de UX, que nos dará una visión más profesional.
-    - **5 participantes no interesados en esta cultura**, de edad variable, 2 de ellos de edad joven ( 16-35 años), 2 de ellos en edad adulta ( 36 - 65) y 1 en edad avanzada ( +65 ). De esta forma analizamos el comportamiento de generaciones en las que normalmente hay diferencias de niveles en cuanto al uso de tecnologías.
+- **20 participantes interesados en el anime**, de edad joven ( 16-35 años ). Se asume cierto nivel de uso tecnológico, ya que generalmente este tipo de contenidos se consumen por internet. Además, de estos 20 participantes, se seleccionan 5 de origen japonés y 15 de origen no japonés, por cuestiones de mejor entendimiento de esta cultura. De estos 20 participantes, se tomarán dos personas con conocimientos de UX, que nos dará una visión más profesional.
+- **5 participantes no interesados en esta cultura**, de edad variable, 2 de ellos de edad joven ( 16-35 años), 2 de ellos en edad adulta ( 36 - 65) y 1 en edad avanzada ( +65 ). De esta forma analizamos el comportamiento de generaciones en las que normalmente hay diferencias de niveles en cuanto al uso de tecnologías.
 
 En cuánto a los métodos diferentes a las entrevistas, seleccionamos un subrgupo de estos 25 participantes, formado por **8 personas del primer subgrupo** sumado a **2 personas del segundo grupo**, concretamente 1 adulto y 1 persona de edad avanzada.
 
@@ -92,6 +92,7 @@ En los experimentos donde el usuario tenga contacto con la aplicación, tenemos 
 - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
 - Usability Report con mejoras de usabilidad.
 > 
+
 
 
 
