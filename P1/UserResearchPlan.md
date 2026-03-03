@@ -22,7 +22,6 @@ Con este estudio, se pretende realizar un análisis del comportamiento del usuar
 - **Objetivos de investigación:** 
 
 Se pretende con este análisis que la aplicación cuente con una serie de características que optimicen la experiencia de usuario. Algunos de los más importantes son:
-
     - Facilidad para el usuario de acceder al menú en un tiempo razonable.
     - Que este menú sea informativo de cada plato y sea fácil comprobar alérgenos.
     - Tener una apariencia atractiva basada en el anime japonés que sea interesante pero que no eclipse el propósito del restaurante, que es el de ofrecer comida.
@@ -91,6 +90,7 @@ En los experimentos donde el usuario tenga contacto con la aplicación, tenemos 
   - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
   - Usability Report con mejoras de usabilidad.
 > 
+
 
 
 
