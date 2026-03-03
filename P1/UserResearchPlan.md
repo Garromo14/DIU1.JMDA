@@ -30,6 +30,7 @@ Se pretende con este análisis que la aplicación cuente con una serie de caract
 - Comprender los gustos del usuario para adaptar el menú.
 - Analizar qué comportamiento tienen los nuevos usuarios para atraer más usuarios.
 
+
 - **Experiencia del equipo / justificación**
 
     - **Jose María Martín**: "Como desarrollador, he trabajado en otros proyectos de restauración y frecuento páginas de anime, por lo que este proyecto me es muy interesante".
@@ -73,24 +74,25 @@ Se van a tener en cuenta el nivel de competencia digital de cada persona para as
 
 En los experimentos donde el usuario tenga contacto con la aplicación, tenemos las siguientes tareas:
 
-   - Navegar libremente por la interfaz y preguntar por opinión, sus objetivos, en qué ha tenido éxito, en qué ha fracasado... etc.
-   - Buscar el menú y observar 5 productos de diferente categoría ( p.e. bebidas, ramen, postres...).
-   - Encontrar el horario y localización del establecimiento.
-   - Realizar una reserva y comprobar que se ha realizado con éxito.
-   - Encontrar el contacto del restaurante y sus redes sociales.
-   - Buscar y valorar opiniones de otros usuarios.
-   - Registrar una valoración.
-   - Buscar los alérgenos de ciertos platos en el menú.
+- Navegar libremente por la interfaz y preguntar por opinión, sus objetivos, en qué ha tenido éxito, en qué ha fracasado... etc.
+- Buscar el menú y observar 5 productos de diferente categoría ( p.e. bebidas, ramen, postres...).
+- Encontrar el horario y localización del establecimiento.
+- Realizar una reserva y comprobar que se ha realizado con éxito.
+- Encontrar el contacto del restaurante y sus redes sociales.
+- Buscar y valorar opiniones de otros usuarios.
+- Registrar una valoración.
+- Buscar los alérgenos de ciertos platos en el menú.
 
 
 
 #### 5. Cronograma y Entregables
 
-  - Análisis de competencia para evaluar ventajas y desventajas de nuestro producto frente a competidores.
-  - 2 Documentos "Personas" para conocer varios perfiles potenciales de usuarios.
-  - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
-  - Usability Report con mejoras de usabilidad.
+- Análisis de competencia para evaluar ventajas y desventajas de nuestro producto frente a competidores.
+- 2 Documentos "Personas" para conocer varios perfiles potenciales de usuarios.
+- 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
+- Usability Report con mejoras de usabilidad.
 > 
+
 
 
 
