@@ -70,7 +70,8 @@ Miembros y nombre del equipo:
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-![Método UX](P1/CompetitorAnalysis.png) 
+![Analisis](P1/CompetitorAnalysis.png) 
+
 Shifu Ramen Granada es un establecimiento con una pagina web muy sencilla. Está diseñada para usarse como una carta on-line, ya que al abrir es lo primero que aparece; sin embargo, también dispone de funcionalidad para hacer otras cosas como una reserva o mirar las novedades en su blog. 
 
 Buga Ramen por otra parte tiene una pagina web más compleja y vistosa. Destaca por ofrecer más información sobre su historia y sus locales, con una gran galería de fotos. A cambio, por este enfoque más centrado en vender la experiencia, han dado a cambio otras funcionalidades como la posibilidad de reservar por teléfono.
