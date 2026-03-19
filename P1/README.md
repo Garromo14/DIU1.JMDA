@@ -116,9 +116,11 @@ Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario 
 
 ### 1.c Personas
 
-**NOTA: Se puede acceder a cada recurso haciendo click en la imagen.**
+
 ![Método UX](../img/Persona.png) 
 -----
+
+**NOTA: Se puede acceder a cada recurso haciendo click en la imagen.**
 ![Persona #1](Persona1.png)
 La persona de Andrés representa un posible consumidor común de este tipo de servicios. Se trata de un informático joven, perfil donde encontramos muchos amantes del anime. A la hora de escoger 2 personas hemos pensado en dos tipos de perfiles: el amante del anime y la persona que generalmente está más alejada de este tipo de cultura y de la gastronomía japonesa. Andrés representa el primer tipo de perfil.
 ![Persona #2](Persona2.png) 
