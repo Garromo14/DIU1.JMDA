@@ -147,17 +147,18 @@ Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien
 
 ### 1.f Briefing de la práctica
 Este proyecto tiene como objetivo el análisis de usabilidad del sitio web https://www.ramenshifu.com/ramen-shifu-granada/. Para ello, se han llevado a cabo las siguientes pruebas:
-•	Research Plan.
-•	Competitor Analysis.
-•	Documentos “Personas” y “User Journey Map”.
-•	Usability Review.
+	- Research Plan.
+ 	- Competitor Analysis.
+    - Documentos “Personas” y “User Journey Map”.
+	- Usability Review.
+    
 Estas pruebas tienen como objetivo describir un conjunto de prácticas y metodologías que aplicar a los usuarios del sitio web, describiendo a estos usuarios y las acciones potenciales a realizar y analizando la competencia  con el objetivo de evaluar y mejorar la usabilidad de nuestra aplicación.
 Las pruebas han dado resultado a las siguientes conclusiones:
-•	El sitio cumple con lo esperado en una página web de restauración, es decir, un uso rápido y sencillo del usuario, donde la estructura es coherente y los distintos documentos del sitio web son fácilmente accesibles por medio de la cabecera y menú superior.
-•	La temática de anime está presente y no sobrecarga la experiencia de usuario. Quizá un amante del anime esperaría una apariencia algo más rica en elementos de este tipo.
-•	El menú está presente en la página principal y bien distribuido por categorías. Me parece un gran acierto el que directamente se presente el menú, ya que generalmente es para lo que la gente accede a la web, ahorrando así pasos en la navegación.
-•	Elementos como la dirección o el contacto son fáciles de encontrar en la cabecera.
-•	Los alérgenos no se encuentran a simple vista, ya que se encuentran como un botón junto a las categorías de ingredientes, por lo que la gente podría obviarlos al fijarse en las primeras categorías.
-•	El apartado reservas es claro y bien estructurado.
-•	Hay ciertas secuencias de navegación que conducen a páginas que parecen obsoletas.
+	 - El sitio cumple con lo esperado en una página web de restauración, es decir, un uso rápido y sencillo del usuario, donde la estructura es coherente y los distintos documentos del sitio web son fácilmente accesibles por medio de la cabecera y menú superior.
+	 - La temática de anime está presente y no sobrecarga la experiencia de usuario. Quizá un amante del anime esperaría una apariencia algo más rica en elementos de este tipo.
+	 - El menú está presente en la página principal y bien distribuido por categorías. Me parece un gran acierto el que directamente se presente el menú, ya que generalmente es para lo que la gente accede a la web, ahorrando así pasos en la navegación.
+	 - Elementos como la dirección o el contacto son fáciles de encontrar en la cabecera.
+	 - Los alérgenos no se encuentran a simple vista, ya que se encuentran como un botón junto a las categorías de ingredientes, por lo que la gente podría obviarlos al fijarse en las primeras categorías.
+	 - El apartado reservas es claro y bien estructurado.
+	 - Hay ciertas secuencias de navegación que conducen a páginas que parecen obsoletas.
 
