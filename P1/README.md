@@ -144,3 +144,5 @@ La experiencia de Guillermo quizá no es tan usual para un restaurante de estas 
 
 Valoración final: 82/100
 Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una página de administrador protegida con contraseña desde la página principal es un error grande y debería arreglarse con urgencia. Además, al ser una página web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
+
+### 1.f Valoración final
