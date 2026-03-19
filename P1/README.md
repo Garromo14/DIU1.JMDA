@@ -100,7 +100,8 @@ En los experimentos donde el usuario tenga contacto con la aplicación, tenemos 
 - 2 Documentos "Personas" para conocer varios perfiles potenciales de usuarios.
 - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
 - Usability Report con mejoras de usabilidad.
-> 
+>
+[Research Plan](UserResearchPlan.md)
 ### 1.b Análisis de Competencia
 
 ![Analisis de Competencia](CompetitorAnalysis.png)
