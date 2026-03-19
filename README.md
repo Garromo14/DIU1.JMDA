@@ -185,6 +185,28 @@ La experiencia de Guillermo quizá no es tan usual para un restaurante de estas 
 Valoración final: 82/100
 Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una página de administrador protegida con contraseña desde la página principal es un error grande y debería arreglarse con urgencia. Además, al ser una página web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
 
+### 1.f Briefing de la práctica
+Este proyecto tiene como objetivo el análisis de usabilidad del sitio web https://www.ramenshifu.com/ramen-shifu-granada/. Para ello, se han llevado a cabo las siguientes pruebas:
+
+- Research Plan.
+- Competitor Analysis.
+- Documentos “Personas” y “User Journey Map”.
+- Usability Review.
+    
+Estas pruebas tienen como objetivo describir un conjunto de prácticas y metodologías que aplicar a los usuarios del sitio web, describiendo a estos usuarios y las acciones potenciales a realizar y analizando la competencia  con el objetivo de evaluar y mejorar la usabilidad de nuestra aplicación.
+Las pruebas han dado resultado a las siguientes conclusiones:
+
+- El sitio cumple con lo esperado en una página web de restauración, es decir, un uso rápido y sencillo del usuario.
+- La temática de anime está presente y no sobrecarga la experiencia de usuario.
+- El menú está presente en la página principal y bien distribuido por categorías.
+- Elementos como la dirección o el contacto son fáciles de encontrar en la cabecera.
+- Los alérgenos no se encuentran a simple vista.
+- El apartado reservas es claro y bien estructurado.
+- Hay ciertas secuencias de navegación que conducen a páginas que parecen obsoletas.
+
+### 1.g Valoración del equipo
+
+En general, damos por satisfactoria la realización de la práctica. La comunicación del equipo ha sido buena y la carga de trabajo se ha repartido de forma equitativa. Además, se ha utilizado los recursos de forma homogénea como por ejemplo la misma plantilla de "Personas".
 
 <br>
 
