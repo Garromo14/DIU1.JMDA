@@ -109,7 +109,7 @@ La experiencia de Guillermo quizá no es tan usual para un restaurante de estas 
 ![Usability Review](P1/Usability-review.xlsx)
 
 Valoración final: 82/100
-Al hacer el analisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una pagina de administrador protegida con contraseña desde la pagina principal es un error grande y debería arreglarse con urgencia. Además, al ser una pagina web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
+Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una página de administrador protegida con contraseña desde la página principal es un error grande y debería arreglarse con urgencia. Además, al ser una página web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
