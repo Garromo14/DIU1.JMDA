@@ -118,10 +118,10 @@ Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario 
 ![Método UX](../img/Persona.png) 
 -----
 ![Persona #1](Persona1.png)
-
+La persona de Andrés representa un posible consumidor común de este tipo de servicios. Se trata de un informático joven, perfil donde encontramos muchos amantes del anime. A la hora de escoger 2 personas hemos pensado en dos tipos de perfiles: el amante del anime y la persona que generalmente está más alejada de este tipo de cultura y de la gastronomía japonesa. Andrés representa el primer tipo de perfil.
 ![Persona #2](Persona2.png) 
 
-Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés en la temática anime y no ha probado nunca el ramen. Sin embargo, le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. Al ser arquitecto, Guillermo se siente comodo trabajando con ordenadores, pero no le interesa la tecnología a nivel de hobby.
+Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés en la temática anime y no ha probado nunca el ramen. Sin embargo, le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. Al ser arquitecto, Guillermo se siente cómodo trabajando con ordenadores, pero no le interesa la tecnología a nivel de hobby.
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
@@ -130,10 +130,10 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 ![Método UX](../img/JourneyMap.png) 
 ----
 ![Journey Map #1](User_Journey_Map_1.jpg) 
-
+En este tipo de aplicaciones se suele dar el mismo tipo de uso en todo tipo de perfiles. Por lo general, se espera que el usuario sea capaz de ver el menú e información como categorías de platos o alérgenos y, en caso de estar convencido, consultar la localización para hacer finalmente una reserva.
 ![Journey Map #2](User_Journey_Map_2.jpg) 
 
-La experiencia de Guillermo quizá no es tan usual para un restaurante de estas caracteristicas ya que no forma parte de su publico objetivo, sin embargo, nos proporciona información sobre como se desenvuelve la pagina web con un usuario que prioriza la sencillez y que no pide cosas tan especificas como pueden hacer otros usuarios más conocedores.
+La experiencia de Guillermo quizá no es tan usual para un restaurante de estas características ya que no forma parte de su público objetivo. Sin embargo, nos proporciona información sobre como se desenvuelve la página web con un usuario que prioriza la sencillez y que no pide cosas tan específicas como pueden hacer otros usuarios más conocedores.
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
