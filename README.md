@@ -140,7 +140,7 @@ En los experimentos donde el usuario tenga contacto con la aplicación, algunos 
 - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
 - Usability Report con mejoras de usabilidad.
 
-[Research Plan Completo (más detallado)](resources/UserResearchPlan.md)
+[Research Plan Completo (más detallado)](P1/resources/UserResearchPlan.md)
 
 
 ### 1.b Competitive Analysis
@@ -176,7 +176,8 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 
 La experiencia de Guillermo quizá no es tan usual para un restaurante de estas caracteristicas ya que no forma parte de su publico objetivo, sin embargo, nos proporciona información sobre como se desenvuelve la pagina web con un usuario que prioriza la sencillez y que no pide cosas tan especificas como pueden hacer otros usuarios más conocedores.
 
-
+[Justificación Persona y Journey Map 1](P1/resources/JustificacionPersonaYJourneyMap1.pdf)
+[Justificación Persona y Journey Map 2](P1/resources/)
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
@@ -204,6 +205,7 @@ Las pruebas han dado resultado a las siguientes conclusiones:
 - El apartado reservas es claro y bien estructurado.
 - Hay ciertas secuencias de navegación que conducen a páginas que parecen obsoletas.
 
+[Briefing Completo](P1/resources/BriefinfUsabilityReview.pdf)
 ### 1.g Valoración del equipo
 
 En general, damos por satisfactoria la realización de la práctica. La comunicación del equipo ha sido buena y la carga de trabajo se ha repartido de forma equitativa. Además, se ha utilizado los recursos de forma homogénea como por ejemplo la misma plantilla de "Personas".
