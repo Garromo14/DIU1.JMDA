@@ -188,6 +188,7 @@ La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido au
 ![Método UX](img/usabilityReview.png) 
 ----
 [Usability Review](P1/resources/Usability-review.xlsx)
+
 [Usability Review pdf](P1/resources/Usability-review.pdf)
 
 Valoración final: 82/100
