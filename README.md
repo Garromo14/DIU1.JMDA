@@ -161,10 +161,11 @@ Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario 
 -----
 ![Persona #1](P1/img/Persona1.png)
 
+Andrés es un informático joven con una gran afición por el anime. Por esto, Andrés es un ejemplo claro del publico objetivo del restaurante.
+
 ![Persona #2](P1/img/Persona2.png) 
 
-Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés en la temática anime y no ha probado nunca el ramen. Sin embargo, le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. Al ser arquitecto, Guillermo se siente comodo trabajando con ordenadores, pero no le interesa la tecnología a nivel de hobby.
-
+Guillermo por otra parte es una persona que no tiene ningún interes en el restaurante, sin embargo le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. 
 
 
 ### 1.d User Journey Map
@@ -172,16 +173,20 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 ----
 ![Journey Map #1](P1/img/User_Journey_Map_1.jpg) 
 
+Andrés tiene una experiencia bastante tipica en la que mira datos como los alérgenos y cuando tieme toda la información que necesita hace una reserva.
+
 ![Journey Map #2](P1/img/User_Journey_Map_2.jpg) 
 
-La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido aunque no forme parte de su publico objetivo y nos proporciona información sobre como se desenvuelve la pagina web con otros tipos de usuario. En este caso concreto su mayor problema ha sido con el parking, ya que para traer a toda su familia necesita saber donde puede aparcar el coche.
+La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido aunque no forme parte de su público objetivo y nos proporciona información sobre cómo se desenvuelve la página web con otros tipos de usuario.
+
 
 [Justificación Persona y Journey Map 1](P1/resources/JustificacionPersonaYJourneyMap1.pdf)
-[Justificación Persona y Journey Map 2](P1/resources/)
+[Justificación Persona y Journey Map 2](P1/resources/JustificacionPersonaYJourneyMap2.pdf)
+
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-![Usability Review](P1/resources/Usability-review.xlsx)
+![Usability Review](P1/resources/Usability-review.pdf)
 
 Valoración final: 82/100
 Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una página de administrador protegida con contraseña desde la página principal es un error grande y debería arreglarse con urgencia. Además, al ser una página web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
