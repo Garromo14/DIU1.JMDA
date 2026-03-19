@@ -101,10 +101,10 @@ En los experimentos donde el usuario tenga contacto con la aplicación, tenemos 
 - 2 "User Journey Map" para entender la interacción del usuario con la aplicación.
 - Usability Report con mejoras de usabilidad.
 >
-[Research Plan](UserResearchPlan.md)
+[Research Plan](resources/UserResearchPlan.md)
 ### 1.b Análisis de Competencia
 
-![Analisis de Competencia](CompetitorAnalysis.png)
+![Analisis de Competencia](img/CompetitorAnalysis.png)
 
 Shifu Ramen Granada es un establecimiento con una pagina web muy sencilla. Su pagina web tiene varias secciones: "Inicio", "Tabernas", "Reservas", "Blog", "Nosotros". Inicio consta de un banner con ofertas actuales y un menú para seleccionar localidad. Tabernas cumple la misma funcionalidad que el menú que acabamos de mencionar. Reservas enseña el mismo listado pero añade un boton para llamar por telefono. Blog es la primera sección de la web que cumple una funcionalidad distinta, en él encontramos publicaciones con colaboraciones y ofertas, y permite acceder a las redes sociales de los participantes. Nosotros es una pagina informativa en la que da un pequeño resumen sobre la historia del local.
 
@@ -121,9 +121,9 @@ Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario 
 -----
 
 **NOTA: Se puede acceder a cada recurso haciendo click en la imagen.**
-![Persona #1](Persona1.png)
+![Persona #1](img/Persona1.png)
 La persona de Andrés representa un posible consumidor común de este tipo de servicios. Se trata de un informático joven, perfil donde encontramos muchos amantes del anime. A la hora de escoger 2 personas hemos pensado en dos tipos de perfiles: el amante del anime y la persona que generalmente está más alejada de este tipo de cultura y de la gastronomía japonesa. Andrés representa el primer tipo de perfil.
-![Persona #2](Persona2.png) 
+![Persona #2](img/Persona2.png) 
 
 Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés en la temática anime y no ha probado nunca el ramen. Sin embargo, le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. Al ser arquitecto, Guillermo se siente cómodo trabajando con ordenadores, pero no le interesa la tecnología a nivel de hobby.
 
@@ -133,9 +133,9 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 ### 1.d User Journey Map
 ![Método UX](../img/JourneyMap.png) 
 ----
-![Journey Map #1](User_Journey_Map_1.jpg) 
+![Journey Map #1](img/User_Journey_Map_1.jpg) 
 En este tipo de aplicaciones se suele dar el mismo tipo de uso en todo tipo de perfiles. Por lo general, se espera que el usuario sea capaz de ver el menú e información como categorías de platos o alérgenos y, en caso de estar convencido, consultar la localización para hacer finalmente una reserva.
-![Journey Map #2](User_Journey_Map_2.jpg) 
+![Journey Map #2](img/User_Journey_Map_2.jpg) 
 
 La experiencia de Guillermo quizá no es tan usual para un restaurante de estas características ya que no forma parte de su público objetivo. Sin embargo, nos proporciona información sobre como se desenvuelve la página web con un usuario que prioriza la sencillez y que no pide cosas tan específicas como pueden hacer otros usuarios más conocedores.
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
