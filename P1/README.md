@@ -4,11 +4,8 @@
 - Desk research: Análisis Competencia 
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+- Revisión de Usabilidad
+- 
 
 ### 1.a User Research Plan 
 
@@ -127,8 +124,6 @@ La persona de Andrés representa un posible consumidor común de este tipo de se
 
 Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés en la temática anime y no ha probado nunca el ramen. Sin embargo, le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. Al ser arquitecto, Guillermo se siente cómodo trabajando con ordenadores, pero no le interesa la tecnología a nivel de hobby.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
 
 ### 1.d User Journey Map
 ![Método UX](../img/JourneyMap.png) 
@@ -138,7 +133,6 @@ En este tipo de aplicaciones se suele dar el mismo tipo de uso en todo tipo de p
 ![Journey Map #2](img/User_Journey_Map_2.jpg) 
 
 La experiencia de Guillermo quizá no es tan usual para un restaurante de estas características ya que no forma parte de su público objetivo. Sin embargo, nos proporciona información sobre como se desenvuelve la página web con un usuario que prioriza la sencillez y que no pide cosas tan específicas como pueden hacer otros usuarios más conocedores.
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
