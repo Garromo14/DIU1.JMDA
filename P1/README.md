@@ -115,7 +115,7 @@ Buga Ramen por otra parte tiene una pagina web más compleja y vistosa. Destaca 
 Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario más completo, permitiendo realizar reservas directamente desde la web. Además, tiene un enfoque más interactivo que la alternativa, con un blog en la propia web y con su presencia en las redes sociales que creemos que puede ser más interesante a la hora de realizar un análisis.
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+![Método UX](../img/Persona.png) 
 -----
 ![Persona #1](Persona1.png)
 
@@ -127,7 +127,7 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](../img/JourneyMap.png) 
 ----
 ![Journey Map #1](User_Journey_Map_1.jpg) 
 
@@ -138,7 +138,7 @@ La experiencia de Guillermo quizá no es tan usual para un restaurante de estas 
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+![Método UX](../img/usabilityReview.png) 
 ----
 ![Usability Review](Usability-review.xlsx)
 
