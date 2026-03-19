@@ -174,7 +174,7 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 
 ![Journey Map #2](P1/img/User_Journey_Map_2.jpg) 
 
-La experiencia de Guillermo quizá no es tan usual para un restaurante de estas caracteristicas ya que no forma parte de su publico objetivo, sin embargo, nos proporciona información sobre como se desenvuelve la pagina web con un usuario que prioriza la sencillez y que no pide cosas tan especificas como pueden hacer otros usuarios más conocedores.
+La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido aunque no forme parte de su publico objetivo y nos proporciona información sobre como se desenvuelve la pagina web con otros tipos de usuario. En este caso concreto su mayor problema ha sido con el parking, ya que para traer a toda su familia necesita saber donde puede aparcar el coche.
 
 [Justificación Persona y Journey Map 1](P1/resources/JustificacionPersonaYJourneyMap1.pdf)
 [Justificación Persona y Journey Map 2](P1/resources/)
