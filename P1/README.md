@@ -115,6 +115,8 @@ Buga Ramen por otra parte tiene una pagina web más compleja y vistosa. Destaca 
 Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario más completo, permitiendo realizar reservas directamente desde la web. Además, tiene un enfoque más interactivo que la alternativa, con un blog en la propia web y con su presencia en las redes sociales que creemos que puede ser más interesante a la hora de realizar un análisis.
 
 ### 1.c Personas
+
+**NOTA: Se puede acceder a cada recurso haciendo click en la imagen.**
 ![Método UX](../img/Persona.png) 
 -----
 ![Persona #1](Persona1.png)
