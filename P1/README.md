@@ -5,7 +5,7 @@
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad
-- 
+
 
 ### 1.a User Research Plan 
 
