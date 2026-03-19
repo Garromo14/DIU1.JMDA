@@ -181,6 +181,7 @@ La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido au
 
 
 [Justificación Persona y Journey Map 1](P1/resources/JustificacionPersonaYJourneyMap1.pdf)
+
 [Justificación Persona y Journey Map 2](P1/resources/JustificacionPersonaYJourneyMap2.pdf)
 
 ### 1.e Usability Review
