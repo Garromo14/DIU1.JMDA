@@ -115,3 +115,32 @@ Buga Ramen por otra parte tiene una pagina web más compleja y vistosa. Destaca 
 Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario más completo, permitiendo realizar reservas directamente desde la web. Además, tiene un enfoque más interactivo que la alternativa, con un blog en la propia web y con su presencia en las redes sociales que creemos que puede ser más interesante a la hora de realizar un análisis.
 
 ### 1.c Personas
+![Método UX](img/Persona.png) 
+-----
+![Persona #1](P1/Persona1.png)
+
+![Persona #2](P1/Persona2.png) 
+
+Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés en la temática anime y no ha probado nunca el ramen. Sin embargo, le gusta probar comidas nuevas y está dispuesto a probar en Shifu Ramen. Al ser arquitecto, Guillermo se siente comodo trabajando con ordenadores, pero no le interesa la tecnología a nivel de hobby.
+
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+
+
+### 1.d User Journey Map
+![Método UX](img/JourneyMap.png) 
+----
+![Journey Map #1](P1/User_Journey_Map_1.jpg) 
+
+![Journey Map #2](P1/User_Journey_Map_2.jpg) 
+
+La experiencia de Guillermo quizá no es tan usual para un restaurante de estas caracteristicas ya que no forma parte de su publico objetivo, sin embargo, nos proporciona información sobre como se desenvuelve la pagina web con un usuario que prioriza la sencillez y que no pide cosas tan especificas como pueden hacer otros usuarios más conocedores.
+>>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+
+
+### 1.e Usability Review
+![Método UX](img/usabilityReview.png) 
+----
+![Usability Review](P1/Usability-review.xlsx)
+
+Valoración final: 82/100
+Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una página de administrador protegida con contraseña desde la página principal es un error grande y debería arreglarse con urgencia. Además, al ser una página web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
