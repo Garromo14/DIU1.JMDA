@@ -164,3 +164,6 @@ Las pruebas han dado resultado a las siguientes conclusiones:
 - El apartado reservas es claro y bien estructurado.
 - Hay ciertas secuencias de navegación que conducen a páginas que parecen obsoletas.
 
+### 1.g Valoración del equipo
+
+En general, damos por satisfactoria la realización de la práctica. La comunicación del equipo ha sido buena y la carga de trabajo se ha repartido de forma equitativa. Además, se ha utilizado los recursos de forma homogénea como por ejemplo la misma plantilla de "Personas".
