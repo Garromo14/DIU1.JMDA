@@ -137,6 +137,7 @@ En este tipo de aplicaciones se suele dar el mismo tipo de uso en todo tipo de p
 La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido aunque no forme parte de su publico objetivo y nos proporciona información sobre como se desenvuelve la pagina web con otros tipos de usuario. En este caso concreto su mayor problema ha sido con el parking, ya que para traer a toda su familia necesita saber donde puede aparcar el coche.
 
 [Justificación Persona y Journey Map 1](resources/JustificacionPersonaYJourneyMap1.pdf)
+
 [Justificación Persona y Journey Map 2](resources/JustificacionPersonaYJourneyMap2.pdf)
 
 
@@ -144,6 +145,7 @@ La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido au
 ![Método UX](../img/usabilityReview.png) 
 ----
 [Usability Review](resources/Usability-review.xlsx)
+
 [Usability Review pdf](resources/Usability-review.pdf)
 
 Valoración final: 82/100
