@@ -74,7 +74,7 @@ Miembros y nombre del equipo:
 
 Shifu Ramen Granada es un establecimiento con una pagina web muy sencilla. Está diseñada para usarse como una carta on-line, ya que al abrir es lo primero que aparece; sin embargo, también dispone de funcionalidad para hacer otras cosas como una reserva o mirar las novedades en su blog. 
 
-Buga Ramen por otra parte tiene una pagina web más compleja y vistosa. Destaca por ofrecer más información sobre su historia y sus locales, con una gran galería de fotos. A cambio, por este enfoque más centrado en vender la experiencia, han dado a cambio otras funcionalidades como la posibilidad de reservar por teléfono.
+Buga Ramen por otra parte tiene una pagina web más compleja y vistosa. Destaca por ofrecer más información sobre su historia y sus locales, con una gran galería de fotos. Por este enfoque más centrado en vender la experiencia, han dado a cambio otras funcionalidades como la posibilidad de reservar por teléfono.
 
 Hemos decidido decantarnos por Shifu Ramen puesto que tiene un flujo de usuario más completo, permitiendo realizar reservas directamente desde la web. Además, tiene un enfoque más interactivo que la alternativa, con un blog en la propia web y con su presencia en las redes sociales que creemos que puede ser más interesante a la hora de realizar un análisis.
 
