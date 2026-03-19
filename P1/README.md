@@ -148,8 +148,8 @@ Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien
 ### 1.f Briefing de la práctica
 Este proyecto tiene como objetivo el análisis de usabilidad del sitio web https://www.ramenshifu.com/ramen-shifu-granada/. Para ello, se han llevado a cabo las siguientes pruebas:
 	- Research Plan.
- 	- Competitor Analysis.
-    - Documentos “Personas” y “User Journey Map”.
+	- Competitor Analysis.
+	- Documentos “Personas” y “User Journey Map”.
 	- Usability Review.
     
 Estas pruebas tienen como objetivo describir un conjunto de prácticas y metodologías que aplicar a los usuarios del sitio web, describiendo a estos usuarios y las acciones potenciales a realizar y analizando la competencia  con el objetivo de evaluar y mejorar la usabilidad de nuestra aplicación.
