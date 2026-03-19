@@ -187,7 +187,8 @@ La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido au
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-![Usability Review](P1/resources/Usability-review.pdf)
+[Usability Review](P1/resources/Usability-review.xlsx)
+[Usability Review pdf](P1/resources/Usability-review.pdf)
 
 Valoración final: 82/100
 Al hacer el análisis de usabilidad comprobamos que se desenvuelve bastante bien en normas generales, aunque hay algunos puntos en los que flaquea. Por ejemplo, el hecho de que puedas acceder a una página de administrador protegida con contraseña desde la página principal es un error grande y debería arreglarse con urgencia. Además, al ser una página web sencilla y con poca interactividad, hay secciones que no se pueden calificar de forma completa.
