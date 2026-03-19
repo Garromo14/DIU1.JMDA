@@ -129,10 +129,12 @@ Guillermo Olmeda es un arquitecto y padre de familia que no tiene mucho interés
 ![Método UX](../img/JourneyMap.png) 
 ----
 ![Journey Map #1](img/User_Journey_Map_1.jpg) 
+
 En este tipo de aplicaciones se suele dar el mismo tipo de uso en todo tipo de perfiles. Por lo general, se espera que el usuario sea capaz de ver el menú e información como categorías de platos o alérgenos y, en caso de estar convencido, consultar la localización para hacer finalmente una reserva.
+
 ![Journey Map #2](img/User_Journey_Map_2.jpg) 
 
-La experiencia de Guillermo quizá no es tan usual para un restaurante de estas características ya que no forma parte de su público objetivo. Sin embargo, nos proporciona información sobre como se desenvuelve la página web con un usuario que prioriza la sencillez y que no pide cosas tan específicas como pueden hacer otros usuarios más conocedores.
+La experiencia de Guillermo ejemplifica como el uso de la web es muy parecido aunque no forme parte de su publico objetivo y nos proporciona información sobre como se desenvuelve la pagina web con otros tipos de usuario. En este caso concreto su mayor problema ha sido con el parking, ya que para traer a toda su familia necesita saber donde puede aparcar el coche.
 
 
 ### 1.e Usability Review
