@@ -31,7 +31,16 @@ Pasamos ahora al análisis de tareas. Para ello, usaremos User Task Flows, que i
 ![Consultar contacto y localizacion](img/Task_flow3.png)
 
 Por último, para acabar con esta sección, exponemos la matriz de tareas.
+| Tarea / Usuario | Cliente afín a la gastronomía asiática | Cliente de gustos tradicionales| Cliente con varias alergias |
+|----------------|---------|--------|--------|
+| Ver la carta     | Alta    | Alta   | Alta   |
+| Comprobar alérgenos       | Media    | Media  | Alta   |
+| Hacer una reserva         | Alta   | Media  | Media   |
+| Consultar localización y horarios         | Media   | Media  | Media   |
+| Ver contacto         | Baja   | Media  | Media   |
+| Recibir ofertas        | Alta   | Baja  | media   |
 
+Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el interés de cada usuario suele ser parecido.
 
 
 ### ARQUITECTURA DE INFORMACIÓN
