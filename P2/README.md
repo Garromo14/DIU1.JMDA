@@ -4,7 +4,7 @@
 ![Método UX](../img/feedback-capture-grid.png) 
 ---- 
 En esta sección vamos a realizar un estudio de la experiencia del usuario con respecto a la temática de sabores con encanto en general y el sitio web [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/) en particular. Para ello utilizaremos las siguientes herramientas:
-- **Empathy Map:** Este gráfico recoge el comportamiento del usuario con respecto a sitios de ramen de temática anime. Recoge lo que ve y escucha, lo que piensa, dice y hace y los obstáculos y motivaciones.
+- **Empathy Map:** Este gráfico recoge el comportamiento del usuario con respecto a sitios de ramen de temática anime, además del comportamiento en nuestra web. Recoge lo que ve y escucha, lo que piensa, dice y hace y los obstáculos y motivaciones.
 - **Feedback Capture Grid:** En cuanto a este gráfico, recoge la experiencia de usuario con respecto a la web del sitio escogido en la práctica 1. Para ello se realiza una cuadrícula dividida en las secciones: cosas que funcionaron, cosas a mejorar, dudas y propuestas.
 
 ![Empathy Map](img/Empathy_map.png)
