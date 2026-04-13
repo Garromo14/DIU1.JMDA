@@ -102,8 +102,8 @@ Comenzamos definiendo la página de inicio, que como hemos comentado, es la cart
 
 #### Newsletter
 Esta página representa una clásica newsletter para consultar ofertas y noticias. Esta newsletter estará disponible también via email a los clientes que realicen una reserva online y marquen la casilla de recibir ofertas.
-![Newsletter 1](img/NewsletterWF1.png)
-![Newsletter 2](img/NewsletterWF2.png) 
+![Newsletter 1](img/NewsLetterWF1.png)
+![Newsletter 2](img/NewsLetterWF2.png) 
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
