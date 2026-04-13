@@ -10,12 +10,16 @@ En esta sección vamos a realizar un estudio de la experiencia del usuario con r
 #### Empathy Map
 ![Empathy Map](img/Empathy_map.png)
 #### Feedback Capture Grid
-![Feedback Capture Gris](img/Feedback_Capture_Grid.png)
+![Feedback Capture Grid](img/Feedback_Capture_Grid.png)
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+Una vez hecho el estudio del usuario con respecto a esta temática y nuestro sitio web, procedemos a hacer una porpuesta de valor. Cabe resaltar que, al ser una página de restauración, se espera que el uso que haga el usuario de ella sea bastante rápido, ya que normalmente este tipo de webs se visitan para tareas que se esperan que sean lo más rápidas y sencillas como ver la carta, consultar localización o hacer una reserva. Consideramos que en general el sitio [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/) cumple con estas cosas bastante bien por lo que en lugar de hacer una nueva propuesta, se opta por hacer un rediseño del sitio web, modificando algunos elementos que consideramos mejorables. 
 
+Teniendo en cuenta esto, realizamos la siguiente propuesta .....
+
+#### Scope Canvas
+![Scope Canvas](img/Scope_Canvas.png)
 
 ### TASK ANALYSIS
 
