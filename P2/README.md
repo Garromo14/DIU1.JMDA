@@ -75,8 +75,9 @@ Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el int
 -----
 
 En esta sección, detallamos el layout para nuestra web. Primero, realizaremos unos bocetos a mano con el objetivo de tener una idea preliminar de nuestro diseño. Una vez realizado estos diseños, subiremos el nivel haciendo unos **Wireframes** en escala de grises y en formato 12 columnas de nuestra web utilizando figma:
-[Bocetos a mano](../resources/Bocetos.pdf) 
+- [Bocetos a mano](../resources/Bocetos.pdf) 
 
+Para los wireframes, hemos seguido las indicaciones del guión y hemos seleccinado la tipografía **Luckiest Guy**, que recuerda a las letras que podemos encontrar por ejemplo en cómics.
 #### Página Home ( coincide con la carta )
 [Home1](../img/Wireframes.png) 
 
