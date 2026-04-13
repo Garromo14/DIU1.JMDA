@@ -26,9 +26,12 @@ Pasamos ahora al análisis de tareas. Para ello, usaremos User Task Flows, que i
 #### Consultar la carta
 ![Consultar la carta](img/Task_flow1.png)
 #### Realizar una reserva
-![Scope Canvas](img/Task_flow2.png)
+![Realizar Reserva](img/Task_flow2.png)
 #### Consultar el contacto y localización
-![Scope Canvas](img/Task_flow3.png)
+![Consultar contacto y localizacion](img/Task_flow3.png)
+
+Por último, para acabar con esta sección, exponemos la matriz de tareas.
+
 
 
 ### ARQUITECTURA DE INFORMACIÓN
