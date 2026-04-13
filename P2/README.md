@@ -17,12 +17,18 @@ En esta sección vamos a realizar un estudio de la experiencia del usuario con r
 ### 2.b ScopeCanvas
 ![Método UX](../img/ScopeCanvas.png)
 ----
-Una vez hecho el estudio del usuario con respecto a esta temática y nuestro sitio web, procedemos a hacer una propuesta de valor. Cabe resaltar que, al ser una página de restauración, se espera que el uso que haga el usuario de ella sea bastante rápido, ya que normalmente este tipo de webs se visitan para tareas que se esperan que sean lo más rápidas y sencillas como ver la carta, consultar localización o hacer una reserva. Consideramos que en general el sitio [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/) cumple con estas cosas bastante bien por lo que en lugar de hacer una nueva propuesta, se opta por hacer un rediseño del sitio web, modificando algunos elementos que consideramos mejorables. 
+Una vez hecho el estudio del usuario con respecto a esta temática y nuestro sitio web, procedemos a hacer una propuesta de valor. Cabe resaltar que, al ser una página de restauración, se espera que el uso que haga el usuario de ella sea bastante rápido, ya que normalmente este tipo de webs se visitan para tareas que se esperan que sean lo más rápidas y sencillas como ver la carta, consultar localización o hacer una reserva. Consideramos que en general el sitio [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/) cumple con estas cosas bastante bien por lo que en lugar de hacer una propuesta que parta de cero, se opta por hacer un rediseño del sitio web, modificando algunos elementos que consideramos mejorables. 
 
 Teniendo en cuenta esto, realizamos la siguiente propuesta .....
 
 #### Scope Canvas
 ![Scope Canvas](img/Scope_Canvas.png)
+
+Este Scope Canvas recoge las necesidades de los usuarios y plantea objetivos para cumplirlas con el proposito de mejorar la experiencia de usuario.
+
+Por ejemplo, uno de los puntos más negativos de la pagina original es el formulario de registro que aparece cuando abres la web por primera vez. Tal y como hemos comentado antes, el objetivo principal de la página es poder hacer consultas rápidas, por lo que uno de nuestros objetivos más importantes será eliminar de este formulario y sustituirlo como una opción a la hora de reservar.
+
+Pasado un tiempo, se puede medir el desempeño de los cambios realizados mediante ciertas metricas descritas en el Scope Canvas.
 
 ### 2.c User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
@@ -52,22 +58,22 @@ Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el int
 ![Método UX](../img/labelling.png) 
 ----
 
-[Sitemap](./img/sitemap.png)
+[Sitemap](img/sitemap.png)
 
-* Carta: Menú del restaurante visible nada más entrar a la web. Cada item tiene descripción, imagen y está clasificado por alérgenos.
-* Online: Enlace a la opción de reserva mediante formulario web.
-* Telefónica: Enlace a la opción de reserva por telefono.
-* Noticias: Noticias sobre cambios relevantes al restaurante.
-* Ofertas: Ofertas de tiempo limitado por platos y tabernas.
-* Ubicaciones: Ubicación con enlace a mapa de cada taberna.
-* Telefonos: Telefono de contacto de cada taberna.
-* Sobre Nosotros: Información sobre la historia de la cadena.
-* Nuestras Tabernas: Información sobre disponibilidad en distintas localidades.
-* Formulario: Gestión de reservas onlines. Seleccionas localidad, fecha y hora.
-* Tabernas: Gestión de reservas telefónicas. Seleccionas la taberna de tu localidad y te dirige a la sección con información sobre esa taberna.
-* Header: Menú con enlaces a todas las paginas relevantes.
-* Footer: Menú con enlaces a información secundaria (aviso legal, trabaja con nosotros, etc.)
-
+| Label             | Descripcion                                                                                                                  |
+| -------------------| ------------------------------------------------------------------------------------------------------------------------------|
+| Carta             | Menú del restaurante visible nada más entrar a la web. Cada item tiene descripción, imagen y está clasificado por alérgenos. |
+| Online            | Enlace a la opción de reserva mediante formulario web.                                                                       |
+| Telefonica        | Enlace a la opción de reserva por telefono.                                                                                  |
+| Noticias          | Noticias sobre cambios relevantes al restaurante.                                                                            |
+| Ofertas           | Ofertas de tiempo limitado por platos y tabernas.                                                                            |
+| Sobre Nosotros    | Información sobre la historia de la cadena.                                                                                  |
+| Nuestras Tabernas | Información sobre disponibilidad en distintas localidades.                                                                   |
+| Formulario        | Gestión de reservas onlines. Seleccionas localidad, fecha y hora.                                                            |
+| Ubicaciones       | Ubicación con enlace a mapa de cada taberna.                                                                                 |
+| Telefonos         | Telefono de contacto de cada taberna.                                                                                        |
+| Header            | Menú con enlaces a todas las paginas relevantes.                                                                             |
+| Footer            | Menú con enlaces a información secundaria (aviso legal, trabaja con nosotros, etc.)                                          |
 
 
 ### 2.d Wireframes
