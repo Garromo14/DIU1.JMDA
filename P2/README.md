@@ -22,7 +22,7 @@ Una vez hecho el estudio del usuario con respecto a esta temática y nuestro sit
 Teniendo en cuenta esto, realizamos la siguiente propuesta .....
 
 #### Scope Canvas
-![Scope Canvas](img/Scope_Canvas.png)
+![Scope Canvas](../img/Scope_Canvas.png)
 
 Este Scope Canvas recoge las necesidades de los usuarios y plantea objetivos para cumplirlas con el proposito de mejorar la experiencia de usuario.
 
