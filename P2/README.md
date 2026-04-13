@@ -105,7 +105,7 @@ Reservas Online es una página con un formulario en el que se introducirán los 
 La página Tabernas es a la que se te dirige cuando seleccionas la opción de **reserva telefónica**. En esta página se mostrarán los detalles de cada taberna, incluidos número de teléfono (interactuable, para proceder a la reserva) y un mapa, también interactuable que dirigirá a un servicio como **Google Maps**.
 ![Tabernas 1](img/TabernasWF1.png) 
 ![Tabernas 2](img/TabernasWF2.png)
-![Tabernas 3](img/TabernasWF1.png) 
+![Tabernas 3](img/TabernasWF3.png) 
 
 #### Newsletter
 Esta página representa una clásica newsletter para consultar ofertas y noticias. Esta newsletter estará disponible también via email a los clientes que realicen una reserva online y marquen la casilla de recibir ofertas.
