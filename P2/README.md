@@ -84,8 +84,26 @@ En esta sección, detallamos el layout para nuestra web. Primero, realizaremos u
 - [Bocetos a mano](../resources/Bocetos.pdf) 
 
 Para los wireframes, hemos seguido las indicaciones del guión y hemos seleccinado la tipografía **Luckiest Guy**, que recuerda a las letras que podemos encontrar por ejemplo en cómics.
-#### Página Home ( coincide con la carta )
-[Home1](../img/Wireframes.png) 
+#### Página Home ( Carta )
+Comenzamos definiendo la página de inicio, que como hemos comentado, es la carta del restaurante. Esta página cuenta con la cabecera de opciones, un contenedor que muestra una oferta o noticia, unos botones llamados **Cat** que indican una categoría de plato y estarán enlazados con los platos de esa categoría, los propios platos ordenados por categoría, el mapa de **Google Maps** enlazado con la dirección en la cabecera y por último el footer con contacto y alguna otra opción.
+![Home1](../img/HomeYCartaWF1.png) 
+![Home2](../img/HomeYCartaWF2.png) 
+![Home3](../img/HomeYCartaWF3.png) 
+![Home4](../img/HomeYCartaWF4.png)
+![Home5](../img/HomeYCartaWF5.png)
+![Home6](../img/HomeYCartaWF6.png) 
+
+#### Reservas y Tabernas
+![Reservas](../img/ReservasWF.png) 
+![Reservas Online](../img/ReservaOnlineWF.png) 
+![Tabernas 1](../img/TabernasWF1.png) 
+![Tabernas 2](../img/TabernasWF2.png)
+![Tabernas 3](../img/TabernasWF1.png) 
+
+#### Newsletter
+Esta página representa una clásica newsletter para consultar ofertas y noticias. Esta newsletter estará disponible también via email a los clientes que realicen una reserva online y marquen la casilla de recibir ofertas.
+![Newsletter 1](../img/NewsletterWF1.png)
+![Newsletter 2](../img/NewsletterWF2.png) 
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
