@@ -81,7 +81,7 @@ Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el int
 -----
 
 En esta sección, detallamos el layout para nuestra web. Primero, realizaremos unos bocetos a mano con el objetivo de tener una idea preliminar de nuestro diseño. Una vez realizado estos diseños, subiremos el nivel haciendo unos **Wireframes** en escala de grises y en formato 12 columnas de nuestra web utilizando figma:
-- [Bocetos a mano](../resources/Bocetos.pdf) 
+- [Bocetos a mano](resources/Bocetos.pdf) 
 
 Para los wireframes, hemos seguido las indicaciones del guión y hemos seleccinado la tipografía **Luckiest Guy**, que recuerda a las letras que podemos encontrar por ejemplo en cómics.
 #### Página Home ( Carta )
@@ -94,8 +94,15 @@ Comenzamos definiendo la página de inicio, que como hemos comentado, es la cart
 ![Home6](img/HomeYCartaWF6.png) 
 
 #### Reservas y Tabernas
+En las siguientes páginas se gestiona todo el proceso de reserva. 
+
+Reservas es simplemente una página en la que se detallan las opciones de reserva y se enlaza a la página correspondiente según la opción elegida.
 ![Reservas](img/ReservasWF.png) 
+
+Reservas Online es una página con un formulario en el que se introducirán los detalles de la reserva (local de interés, fecha y hora, comensales y email) y se añadirá la opción mediante una checkbox de suscribirse a la **Newsletter**.
 ![Reservas Online](img/ReservaOnlineWF.png) 
+
+La página Tabernas es a la que se te dirige cuando seleccionas la opción de **reserva telefónica**. En esta página se mostrarán los detalles de cada taberna, incluidos número de teléfono (interactuable, para proceder a la reserva) y un mapa, también interactuable que dirigirá a un servicio como **Google Maps**.
 ![Tabernas 1](img/TabernasWF1.png) 
 ![Tabernas 2](img/TabernasWF2.png)
 ![Tabernas 3](img/TabernasWF1.png) 
