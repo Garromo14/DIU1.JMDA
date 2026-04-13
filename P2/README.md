@@ -3,7 +3,9 @@
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](../img/feedback-capture-grid.png) 
 ---- 
-
+En esta sección vamos a realizar un estudio de la experiencia del usuario con respecto a la temática de sabores con encanto en general y el sitio web [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/) en particular. Para ello utilizaremos las siguientes herramientas:
+- **Empathy Map:**
+- **Feedback Capture Grid:**
 
 
 ### PROPUESTA DE VALOR
