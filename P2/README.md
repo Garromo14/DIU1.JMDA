@@ -60,7 +60,7 @@ Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el int
 
 ![Sitemap](img/sitemap.png)
 
-| Label             | Descripcion                                                                                                                  |
+| Término             | Significado                                                                                                                  |
 | -------------------| ------------------------------------------------------------------------------------------------------------------------------|
 | Carta             | Menú del restaurante visible nada más entrar a la web. Cada item tiene descripción, imagen y está clasificado por alérgenos. |
 | Online            | Enlace a la opción de reserva mediante formulario web.                                                                       |
