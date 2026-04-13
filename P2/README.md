@@ -22,12 +22,12 @@ Teniendo en cuenta esto, realizamos la siguiente propuesta .....
 ![Scope Canvas](img/Scope_Canvas.png)
 
 ### TASK ANALYSIS
-Pasamos ahora al análisis de tareas. Para ello, usaremos User Task Flows, que indicarán los pasos que deberán seguir los usuarios para completar ciertas tareas. Además, se plantea una Task Matrix, que es una matriz que indica el interés de un tipo de usuario  en una tarea determinada. En cuánto a las tareas, como hemos comentado previamente, al ser una web de restauración se esperan que sean rápidas, sencillas y que no haya demasiadas. Es por esto que no salen diagramas de flujo muy complejos. Se han seleccionado las siguientes tareas:
+Pasamos ahora al análisis de tareas. Para ello, usaremos User Task Flows, que indicarán los pasos que deberán seguir los usuarios para completar ciertas tareas. Además, se plantea una Task Matrix, que es una matriz que indica el interés de un tipo de usuario  en una tarea determinada. En cuánto a las tareas, como hemos comentado previamente, al ser una web de restauración se esperan que sean rápidas, sencillas y que no haya demasiadas. Es por esto que no salen diagramas de flujo muy largos ni muchos elementos condicionales o repetitivos. Se han seleccionado las siguientes tareas:
 #### Consultar la carta
 ![Consultar la carta](img/Task_flow1.png)
-#### Consultar la carta
+#### Realizar una reserva
 ![Scope Canvas](img/Task_flow2.png)
-#### Consultar la carta
+#### Consultar el contacto y localización
 ![Scope Canvas](img/Task_flow3.png)
 
 
