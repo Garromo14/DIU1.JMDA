@@ -55,10 +55,10 @@ Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el int
 
 
 ### 2.d IA: Sitemap + Labelling 
-![Método UX](../img/labelling.png) 
+![Labelling](../img/labelling.png) 
 ----
 
-[Sitemap](img/sitemap.png)
+![Sitemap](img/sitemap.png)
 
 | Label             | Descripcion                                                                                                                  |
 | -------------------| ------------------------------------------------------------------------------------------------------------------------------|
