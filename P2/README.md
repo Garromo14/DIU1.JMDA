@@ -13,7 +13,10 @@ En esta sección vamos a realizar un estudio de la experiencia del usuario con r
 ![Feedback Capture Grid](img/Feedback_Capture_Grid.png)
 
 
-### PROPUESTA DE VALOR
+
+### 2.b ScopeCanvas
+![Método UX](../img/ScopeCanvas.png)
+----
 Una vez hecho el estudio del usuario con respecto a esta temática y nuestro sitio web, procedemos a hacer una propuesta de valor. Cabe resaltar que, al ser una página de restauración, se espera que el uso que haga el usuario de ella sea bastante rápido, ya que normalmente este tipo de webs se visitan para tareas que se esperan que sean lo más rápidas y sencillas como ver la carta, consultar localización o hacer una reserva. Consideramos que en general el sitio [Ramen Shifu](https://www.ramenshifu.com/ramen-shifu-granada/) cumple con estas cosas bastante bien por lo que en lugar de hacer una nueva propuesta, se opta por hacer un rediseño del sitio web, modificando algunos elementos que consideramos mejorables. 
 
 Teniendo en cuenta esto, realizamos la siguiente propuesta .....
@@ -21,7 +24,9 @@ Teniendo en cuenta esto, realizamos la siguiente propuesta .....
 #### Scope Canvas
 ![Scope Canvas](img/Scope_Canvas.png)
 
-### TASK ANALYSIS
+### 2.c User Flow (task) analysis 
+![Método UX](img/Sitemap.png) 
+-----
 Pasamos ahora al análisis de tareas. Para ello, usaremos User Task Flows, que indicarán los pasos que deberán seguir los usuarios para completar ciertas tareas. Además, se plantea una Task Matrix, que es una matriz que indica el interés de un tipo de usuario  en una tarea determinada. En cuánto a las tareas, como hemos comentado previamente, al ser una web de restauración se esperan que sean rápidas, sencillas y que no haya demasiadas. Es por esto que no salen diagramas de flujo muy largos ni con muchos elementos condicionales o repetitivos. Se han seleccionado las siguientes tareas:
 #### Consultar la carta
 ![Consultar la carta](img/Task_flow1.png)
@@ -43,7 +48,9 @@ Por último, para acabar con esta sección, exponemos la matriz de tareas.
 Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el interés de cada usuario suele ser parecido.
 
 
-### ARQUITECTURA DE INFORMACIÓN
+### 2.d IA: Sitemap + Labelling 
+![Método UX](../img/labelling.png) 
+----
 
 [Sitemap](./img/sitemap.png)
 
@@ -63,8 +70,15 @@ Como vemos, no existen demasiadas tareas en el sitio web y en la mayoría el int
 
 
 
-### Prototipo Lo-FI Wireframe 
+### 2.d Wireframes
+![Método UX](../img/Wireframes.png) 
+-----
 
+En esta sección, detallamos el layout para nuestra web. Primero, realizaremos unos bocetos a mano con el objetivo de tener una idea preliminar de nuestro diseño. Una vez realizado estos diseños, subiremos el nivel haciendo unos **Wireframes** en escala de grises y en formato 12 columnas de nuestra web utilizando figma:
+[Bocetos a mano](../resources/Bocetos.pdf) 
+
+#### Página Home ( coincide con la carta )
+[Home1](../img/Wireframes.png) 
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
