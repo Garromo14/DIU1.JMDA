@@ -31,7 +31,7 @@ Por ejemplo, uno de los puntos más negativos de la pagina original es el formul
 Pasado un tiempo, se puede medir el desempeño de los cambios realizados mediante ciertas metricas descritas en el Scope Canvas.
 
 ### 2.c User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+![Método UX](../img/Sitemap.png) 
 -----
 Pasamos ahora al análisis de tareas. Para ello, usaremos User Task Flows, que indicarán los pasos que deberán seguir los usuarios para completar ciertas tareas. Además, se plantea una Task Matrix, que es una matriz que indica el interés de un tipo de usuario  en una tarea determinada. En cuánto a las tareas, como hemos comentado previamente, al ser una web de restauración se esperan que sean rápidas, sencillas y que no haya demasiadas. Es por esto que no salen diagramas de flujo muy largos ni con muchos elementos condicionales o repetitivos. Se han seleccionado las siguientes tareas:
 #### Consultar la carta
