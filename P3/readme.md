@@ -14,6 +14,13 @@
 La moodboard es una tabla que registra la identidad y el propósito de nuestra marca. Se define tanto la descripción del proyecto, como los elementos visuales del mismo como la paleta de colores, el logo, la frase inspiradora, la tipografía y las imágenes de marca. De esta forma, definimos de forma muy resumida pero clara todos los detalles de nuestra marca. Además, se ilustran elementos inspiradores para la marca, como imágenes que concuerden con la filosofía del proyecto u opiniones de usuarios sobre la temática de nuestro proyecto. Por cuestiones de visibilidad, se mostrará la moodboard por partes.
 
 ![El proyecto](img/project.png)
+![Logo](img/LOGO.png)
+![Frase inspiracional](img/frase_insp.png)
+![Colores](img/colors.png)
+![Tipografía](img/typo.png)
+![Imágenes](img/images.png)
+![img inspiradoras](img/img_inspiration.png)
+![citas usuarios](img/quotes_inspiration.png)
 
 
 ### 3.b Landing Page
