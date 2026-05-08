@@ -62,10 +62,47 @@ De esta forma, vemos la evolución de la construcción de nuestra página. Con e
 ----
 Una vez obtenido la **moodboard** y la **landing page** tenemos la base y un ejemplo de construcción de nuestro sitio web. Se procede ahora a la realización del design system. Para ello, se ha hecho uso del plugin **Deliverrr**. Este plugin nos permite obtener las **foundations** a partir de ciertos datos de nuestra moodboard, como son los colores primarios (rojo), secundarios (negro) y neutral (beige) y tipografías Bebas Neue (headlines) y Saira (body). Con esta información, nos genera una guía en figma de uso de estos colores y tipografía. Por ejemplo, nos muestra los 3 colores en diferentes opacidades y asigna los **Design token** de manera automática, de forma que podemos buscar los colores por **color-primary-500** en lugar de tener que buscar su versión en hexadecimal. Para la tipografía genera algo parecido, genera los tamaños y el salto de línea tanto para las headlines en formato Bebas Neue (h1-h6) como para la letra de body en formato Saira ( large, medium, small y caption ). De nuevo, vuelve a generar los **design tokens** para utilizar las fuentes con total comodidad. Además de esto, generó otras utilidades como la escala de **padding** para el cuál también generaba de forma automática los **design token**.
 
-Pasamos ahora a mostrar nuestro **atomic design**, pasando de elementos menos complejos a más complejos.
+Pasamos ahora a mostrar nuestro **atomic design**, pasando de elementos menos complejos a más complejos. Cabe destacar que todos loc componentes han sido diseñados con **autolayout (shift+A en figma)** para garantizar un diseño responsive. Además, se ha hecho uso de **variantes** y propiedades en figma, pudiendo usar componentes con ligeras modificaciones de una forma mucho más fácil y eficiente.
 
 <h1>Átomos</h1>
-![atomos](img/mockup.png) 
+
+![atomos](img/atoms1.png) 
+![atomos](img/atoms2.png)
+
+Como podemos ver, comenzamos definiendo los componentes más básicos como son la tipografía en diferentes tamaños, los colores, labels, checkboxes, inputs de formulario, botones y labels de header.
+
+Cabe destacar que para los botones, se han definido 3 variantes: default (rojo), hover (negro) y blanco (click). Haciendo uso del apartado prototipo, establecemos que al hacer hover sobre el botón rojo, debe convertirse en el botón negro y al hacer click en este, en el blanco. Para el uso de checkboxes se ha hecho algo de forma similar, se definen dos tipos checked y unchecked y al hacer click en una variante, te lleva a la otra. Del mismo modo, en las labels de header, al hacer hover sobre la label de tipo headline negro, se cambia a la label de headline beige, indicando así que contiene un enlace. 
+
+También se han definido variantes como para las labels generales, sin relaciones de prototipo entre ellas.
+
+<h1>Moléculas</h1>
+
+![moleculas](img/mol1.png) 
+![moleculas](img/mol2.png)
+
+Como podemos observar, tenemos 3 tipos diferentes de cards. El primero ( se ve de ese modo porque se espera que esté integrado en un contenedor de color negro ), es un contenedor que contiene una imagen, título, descripción e iconos de alérgenos en disposición vertical. El segundo tipo de card, es la card de categoría de plato, que aparecerá en el hero section como vimos en la landing page. En este caso se han definido dos variantes, una con etiqueta roja que representará el estado normal de la card y otra con la etiqueta negra y ligeramente más grande que será la variante que habrá al hacer hover sobre la primera. Por último tenemos el contenedor de noticias que en función de su variante contendrá la imagen a la izquierda/derecha y el texto a la derecha/izquierda.
+
+<h1>Organismos</h1>
+
+![organismos](img/org1.png) 
+![organismos](img/org2.png)
+
+Primero, destacamos la **hero section**. Esta estará formada por una label grande en rojo que indicará que es la carta, seguido de un mensaje motivador y por último, una tabla de cards de tipos de plato. Con esto conseguimos darle al cliente de primeras lo que busca, que es la carta. Con la modificación de añadir imágenes a estos botones de tipo de plato, conseguimos una vista más atractiva.
+
+Seguimos con el header. Este contiene el logo y enlaces a cada una de las páginas del sitio web mostradas por labels en formato **Bebas Neue** mientras que la información general se muestra en formato **Saira**. Por último concluímos con un footer en gris muy clásico, mostrando nuestra **frase inspiradora** e información general.
+
+<h1>Patrones</h1>
+
+![patrones](img/pat1.png) 
+![patrones](img/pat2.png)
+![patrones](img/pat3.png)
+
+Para comenzar con los patrones, destacamos un **formulario básico**. Este estará formado por un contenedor negro, una **label** en rojo, una serie de **inputs** variables, una serie de **checkboxes** variables y un **botón** de envío.
+
+Finalizamos el design system con los organismos **fila cards** y **contenedor platos**. Como sus propios nombres indican, estos representarán una fila de dos cards de platos y el contenedor en negro que contiene a estos platos. En lugar de hacer un patrón único combinando estas dos, se ha obtado por hacerlo por separado ya que en un contenedor de platos no tiene por qué haber sólo dos platos ( una fila cards ) sino que esta cantidad es variable. Es por esto que se deja la responsabilidad al diseñador de establecer el tamaño adecuado del contenedor e incluir tantas fila card o card individuales como desee.
+
+Toda esta información se pued encontrar en nuestro archivo figma en el apartado foundations [Enlace a figma]().
+
 
 ### 3.d Mockup
 ![Método UX](../img/mockup.png) 
