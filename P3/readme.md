@@ -33,6 +33,12 @@ Para hacer esta landing page, se hizo uso  de figma make. Seleccionamos nuestra 
 
 ![Landing page](img/landing.png) 
 
+<h1>Versión página entera</h1>
+
+![Landing page](img/landing-full.png)
+
+Como podemos observar, obtenemos una página con un header claro y conciso y que muestra lo más importante al inicio, las categorías de platos. Al hacer click en estas cards, se redirecciona a la sección correspondiente en la misma página. En la versión completa, podemos observar como tenemos elementos como contenedores de noticias/ofertas y las propias secciones de platos bien estructuradas. Por último, tenemos la localización en forma de mapa seguido del footer con información básica.
+Cabe destacar que la página sigue siendo un boceto susceptible a cambios. Por ejemplo, tenemos que dotar al sitio de temática anime. Esto lo conseguiríamos siguiendo la metodología del sitio original realizando dibujos sobre anime que estén sobre el fondo beige.
 ### 3.c Guidelines
 ![Método UX](../img/guidelines.png) 
 ----
