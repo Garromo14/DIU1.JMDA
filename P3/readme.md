@@ -64,8 +64,8 @@ Una vez obtenido la **moodboard** y la **landing page** tenemos la base y un eje
 
 Pasamos ahora a mostrar nuestro **atomic design**, pasando de elementos menos complejos a más complejos.
 
-#### átomos
-
+<h1>Átomos</h1>
+![atomos](img/mockup.png) 
 
 ### 3.d Mockup
 ![Método UX](../img/mockup.png) 
