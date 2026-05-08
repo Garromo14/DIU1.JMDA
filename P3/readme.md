@@ -7,16 +7,11 @@
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](../img/moodboard.png)
 -----
-
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+La moodboard es una tabla que registra la identidad y el propósito de nuestra marca. Se define tanto la descripción del proyecto, como los elementos visuales del mismo como la paleta de colores, el logo, la frase inspiradora, la tipografía y las imágenes de marca. De esta forma, definimos de forma muy resumida pero clara todos los detalles de nuestra marca. Además, se ilustran elementos inspiradores para la marca, como imágenes que concuerden con la filosofía del proyecto u opiniones de usuarios sobre la temática de nuestro proyecto.
 
 
 ### 3.b Landing Page
