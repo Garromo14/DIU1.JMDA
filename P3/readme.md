@@ -22,12 +22,13 @@ La moodboard es una tabla que registra la identidad y el propósito de nuestra m
 ![img inspiradoras](img/img_inspiration.png)
 ![citas usuarios](img/quotes_inspiration.png)
 
-
+Como vemos, definimos claramente nuestra marca, donde vemos un sitio de restauración de gastronomía japonesa con estética de anime, donde se distinguen colores y tipografía urbana.
 ### 3.b Landing Page
 ![Método UX](../img/landing-page.png) 
 ----
+Una vez definido el corazón de nuestro sitio web, buscamos definir un prototipo de nuestra landing page, es decir, la primera página que ve el usuario al entrar en nuestro sitio web. Como ya se comentó en prácticas anteriores, nos pareció un acierto por parte de la página original el que la landing page fuera la carta, ya que es lo que el usuario suele buscar al entrar en webs de restauración. De esta forma, nos ahorramos la búsqueda de la carta y mostramos al usuario lo que quiere.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Para hacer esta landing page, se hizo uso  de figma make. Seleccionamos nuestra moodboard y seleccionamos la opción de "Enviar a figma make"
 
 
 ### 3.c Guidelines
