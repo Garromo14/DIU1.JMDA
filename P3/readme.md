@@ -57,12 +57,14 @@ Vale, quiero intentar integrar todos los elementos de la cabecera en una unica f
 De esta forma, vemos la evolución de la construcción de nuestra página. Con el prompt 1 realizamos una descripción detallada de como queremos la página a partir de la información de nuestra **moodboard**. Con el prompt 2, especificamos que sea responsive. El prompt 3 fue fruto de que, al mostrar la página al profesor, le parecía poco atractivo visualmente e instó a incluir no sólo botones con las categorías de platos sino también imágenes.
 [Enlace a figma make](https://www.figma.com/make/6iAXaY25XUXkjPk2F00U8b/Landing-page-for-ramen-site?t=9PmqYdFBYCD9SG9Z-0)
 
-### 3.c Guidelines
+### 3.c Design System
 ![Método UX](../img/guidelines.png) 
 ----
+Una vez obtenido la **moodboard** y la **landing page** tenemos la base y un ejemplo de construcción de nuestro sitio web. Se procede ahora a la realización del design system. Para ello, se ha hecho uso del plugin **Deliverrr**. Este plugin nos permite obtener las **foundations** a partir de ciertos datos de nuestra moodboard, como son los colores primarios (rojo), secundarios (negro) y neutral (beige) y tipografías Bebas Neue (headlines) y Saira (body). Con esta información, nos genera una guía en figma de uso de estos colores y tipografía. Por ejemplo, nos muestra los 3 colores en diferentes opacidades y asigna los **Design token** de manera automática, de forma que podemos buscar los colores por **color-primary-500** en lugar de tener que buscar su versión en hexadecimal. Para la tipografía genera algo parecido, genera los tamaños y el salto de línea tanto para las headlines en formato Bebas Neue (h1-h6) como para la letra de body en formato Saira ( large, medium, small y caption ). De nuevo, vuelve a generar los **design tokens** para utilizar las fuentes con total comodidad. Además de esto, generó otras utilidades como la escala de **padding** para el cuál también generaba de forma automática los **design token**.
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Pasamos ahora a mostrar nuestro **atomic design**, pasando de elementos menos complejos a más complejos.
+
+#### átomos
 
 
 ### 3.d Mockup
