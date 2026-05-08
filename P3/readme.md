@@ -28,8 +28,9 @@ Como vemos, definimos claramente nuestra marca, donde vemos un sitio de restaura
 ----
 Una vez definido el corazón de nuestro sitio web, buscamos definir un prototipo de nuestra landing page, es decir, la primera página que ve el usuario al entrar en nuestro sitio web. Como ya se comentó en prácticas anteriores, nos pareció un acierto por parte de la página original el que la landing page fuera la carta, ya que es lo que el usuario suele buscar al entrar en webs de restauración. De esta forma, nos ahorramos la búsqueda de la carta y mostramos al usuario lo que quiere.
 
-Para hacer esta landing page, se hizo uso  de figma make. Seleccionamos nuestra moodboard y seleccionamos la opción de "Enviar a figma make"
+Para hacer esta landing page, se hizo uso  de figma make. Seleccionamos nuestra moodboard y seleccionamos la opción de "Enviar a figma make". De esta forma le cargamos nuestra moodboard a la IA de figma a la cuál le podemos pedir que nos genere cosas a partir de ella. Como resultado obtuvimos lo siguiente:
 
+![Landing page](img/landing.png) 
 
 ### 3.c Guidelines
 ![Método UX](../img/guidelines.png) 
