@@ -30,6 +30,7 @@ Una vez definido el corazón de nuestro sitio web, buscamos definir un prototipo
 
 Para hacer esta landing page, se hizo uso  de figma make. Seleccionamos nuestra moodboard y seleccionamos la opción de "Enviar a figma make". De esta forma le cargamos nuestra moodboard a la IA de figma a la cuál le podemos pedir que nos genere cosas a partir de ella. Como resultado obtuvimos lo siguiente:
 <h1>Versión tamaño de pantalla</h1>
+
 ![Landing page](img/landing.png) 
 
 ### 3.c Guidelines
