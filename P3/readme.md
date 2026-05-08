@@ -29,13 +29,16 @@ Como vemos, definimos claramente nuestra marca, donde vemos un sitio de restaura
 Una vez definido el corazón de nuestro sitio web, buscamos definir un prototipo de nuestra **landing page**, es decir, la primera página que ve el usuario al entrar en nuestro sitio web. Como ya se comentó en prácticas anteriores, nos pareció un acierto por parte de la página original el que la **landing page** fuera la **carta**, ya que es lo que el usuario suele buscar al entrar en webs de restauración. De esta forma, nos ahorramos la búsqueda de la carta y mostramos al usuario lo que quiere.
 
 Para hacer esta landing page, se hizo uso de **figma make**. Seleccionamos nuestra moodboard y seleccionamos la opción de **"Enviar a figma make"**. De esta forma le cargamos nuestra moodboard a la IA de figma a la cuál le podemos pedir que nos genere cosas a partir de ella. Como resultado obtuvimos lo siguiente:
-<h1>Versión tamaño de pantalla</h1>
+<h1>Primera vista en tamaño de pantalla</h1>
 
 ![Landing page](img/landing.png) 
 
 <h1>Versión página entera</h1>
 
-![Landing page](img/landing_full.png)
+![Landing page](img/landing2.png)
+![Landing page](img/landing3.png)
+![Landing page](img/landing4.png)
+![Landing page](img/landing5.png)
 
 Como podemos observar, obtenemos una página con un header claro y conciso y que muestra lo más importante al inicio, el **hero section** que contiene las categorías de platos. Al hacer click en estas cards, se redirecciona a la sección correspondiente en la misma página. En la versión completa, podemos observar como tenemos elementos como contenedores de noticias/ofertas y las propias secciones de platos bien estructuradas. Por último, tenemos la localización en forma de mapa seguido del footer con información básica.
 Cabe destacar que la página sigue siendo un boceto susceptible a cambios. Por ejemplo, tenemos que dotar al sitio de temática anime. Esto lo conseguiríamos siguiendo la metodología del sitio original realizando dibujos sobre anime que estén sobre el fondo beige.
@@ -52,7 +55,6 @@ El diseño es muy bueno pero quiero que contenga el logo adjunto y que sea respo
 Vale, quiero intentar integrar todos los elementos de la cabecera en una unica fila de color Rojo. Ademas, en lugar de tener solo un boton por categoria de plato, me gustaria tener una pequeña imagen encima de cada boton que muestre el tipo de plato.
 
 De esta forma, vemos la evolución de la construcción de nuestra página. Con el prompt 1 realizamos una descripción detallada de como queremos la página a partir de la información de nuestra **moodboard**. Con el prompt 2, especificamos que sea responsive. El prompt 3 fue fruto de que, al mostrar la página al profesor, le parecía poco atractivo visualmente e instó a incluir no sólo botones con las categorías de platos sino también imágenes.
-[Landing page versión pdf](resources/landing_full.pdf)
 [Enlace a figma make](https://www.figma.com/make/6iAXaY25XUXkjPk2F00U8b/Landing-page-for-ramen-site?t=9PmqYdFBYCD9SG9Z-0)
 
 ### 3.c Guidelines
