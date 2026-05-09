@@ -344,34 +344,86 @@ Esta página representa una clásica newsletter para consultar ofertas y noticia
 
 <br>
 
+# DIU - Practica 3, entregables
+
+- Moodboard (diseño visual + logotipo)   
+- Landing Page
+- Mockup: LAYOUT HI-FI
+- Publicación del Case Study
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
+Explicación más detallada en [readme P3](P3/readme.md)
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
+La **moodboard** es una tabla que registra la identidad y el propósito de nuestra marca. Se define tanto la descripción del proyecto, como los elementos visuales del mismo como la paleta de colores, el logo, la frase inspiradora, la tipografía y las imágenes de marca.
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+![El proyecto](P3/img/project.png)
+![Logo](P3/img/LOGO.png)
+![Frase inspiracional](P3/img/frase_insp.png)
+![Colores](P3/img/colors.png)
+![Tipografía](P3/img/typo.png)
+![Imágenes](P3/img/images.png)
+![img inspiradoras](P3/img/img_inspiration.png)
+![citas usuarios](P3/img/quotes_inspiration.png)
 
-
+Como vemos, definimos claramente nuestra marca, donde vemos un sitio de restauración de gastronomía japonesa con estética de anime, carcaterizado por colores y tipografía urbana.
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
+Una vez definido el corazón de nuestro sitio web, buscamos definir un prototipo de nuestra **landing page**. Como ya se comentó en prácticas anteriores, nos pareció un acierto por parte de la página original el que la **landing page** fuera la **carta**, ya que es lo que el usuario suele buscar al entrar en webs de restauración. De esta forma, nos ahorramos la búsqueda de la carta y mostramos al usuario lo que quiere.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Para hacer esta landing page, se hizo uso de **figma make**. Como resultado obtuvimos lo siguiente:
+<h1>Primera vista en tamaño de pantalla</h1>
+
+![Landing page](img/landing.png) 
+
+<h1>Versión página entera</h1>
+
+![Landing page](img/landing2.png)
+![Landing page](img/landing3.png)
+![Landing page](img/landing4.png)
+![Landing page](img/landing5.png)
 
 
-### 3.c Guidelines
+[Enlace a figma make](https://www.figma.com/make/6iAXaY25XUXkjPk2F00U8b/Landing-page-for-ramen-site?t=9PmqYdFBYCD9SG9Z-0)
+
+### 3.c Design System
 ![Método UX](img/guidelines.png) 
 ----
+Una vez obtenido la **moodboard** y la **landing page** tenemos la base y un ejemplo de construcción de nuestro sitio web. Se procede ahora a la realización del design system. Para ello, se ha hecho uso del plugin **Deliverrr**. Este plugin nos permite obtener las **foundations** a partir de ciertos datos de nuestra moodboard, como son los colores primarios (rojo), secundarios (negro) y neutral (beige) y tipografías Bebas Neue (headlines) y Saira (body). Con esta información, nos genera una guía en figma de uso de estos colores y tipografía. Además, genera los **Design tokens** tanto para colores, tipografía, padding
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Pasamos ahora a mostrar nuestro **atomic design**, pasando de elementos menos complejos a más complejos. Cabe destacar que todos loc componentes han sido diseñados con **autolayout (shift+A en figma)** para garantizar un diseño responsive. Además, se ha hecho uso de **variantes** y propiedades en figma, pudiendo usar componentes con ligeras modificaciones de una forma mucho más fácil y eficiente.
 
+<h1>Átomos</h1>
+
+![atomos](P3/img/atoms1.png) 
+![atomos](P3/img/atoms2.png)
+
+
+
+<h1>Moléculas</h1>
+
+![moleculas](P3/img/mol1.png) 
+![moleculas](P3/img/mol2.png)
+
+
+<h1>Organismos</h1>
+
+![organismos](P3/img/org1.png) 
+![organismos](P3/img/org2.png)
+
+
+<h1>Patrones</h1>
+
+![patrones](P3/img/pat1.png) 
+![patrones](P3/img/pat2.png)
+![patrones](P3/img/pat3.png)
+
+
+
+Toda esta información se pued encontrar en nuestro archivo figma en el apartado foundations [Enlace a figma]() y de forma más detallada en [readme P3](P3/readme.md).
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
