@@ -107,5 +107,12 @@ Toda esta información se pued encontrar en nuestro archivo figma en el apartado
 ### 3.d Mockup
 ![Método UX](../img/mockup.png) 
 ----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+A partir del Design System realizado, podemos construir las páginas para nuestra web.
+![carta](img/carta.png)
+Es una imitación de la landing page que había generado Figma Make. Nada más entrar a la página nos encontramos con la carta. Al clicar un componente de la hero section te desplaza al apartado correspondiente de la página.
+![reserva](img/reserva.png)
+Los botones cambian de variante al hacer hover y te dirigen a la página correspondiente al clicar.
+![online](img/online.png)
+![tabernas](img/tabernas.png)
+Cada sección tiene un enlace a su dirección en **Google Maps**.
+![news](img/news.png)
