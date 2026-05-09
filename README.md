@@ -27,15 +27,15 @@ Grupo: DIU1_JMDA.  Curso: 2025/26
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Ramen Shifu
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Se plantea un rediseño del sitio web seleccionado en la práctica 1 [Ramen shifu](https://www.ramenshifu.com/ramen-shifu-granada/). Se busca mantener la estética anime y preservar las características positivas del sitio, realizando un rediseño para mejorar el atractivo de la página u organizar de mejor manera elementos.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](P3/img/LOGO.png)
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Jose María Martín     :octocat:     https://github.com/josemartin2912
@@ -377,14 +377,14 @@ Una vez definido el corazón de nuestro sitio web, buscamos definir un prototipo
 Para hacer esta landing page, se hizo uso de **figma make**. Como resultado obtuvimos lo siguiente:
 <h1>Primera vista en tamaño de pantalla</h1>
 
-![Landing page](img/landing.png) 
+![Landing page](P3/img/landing.png) 
 
 <h1>Versión página entera</h1>
 
-![Landing page](img/landing2.png)
-![Landing page](img/landing3.png)
-![Landing page](img/landing4.png)
-![Landing page](img/landing5.png)
+![Landing page](P3/img/landing2.png)
+![Landing page](P3/img/landing3.png)
+![Landing page](P3/img/landing4.png)
+![Landing page](P3/img/landing5.png)
 
 
 [Enlace a figma make](https://www.figma.com/make/6iAXaY25XUXkjPk2F00U8b/Landing-page-for-ramen-site?t=9PmqYdFBYCD9SG9Z-0)
