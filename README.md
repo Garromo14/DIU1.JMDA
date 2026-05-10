@@ -423,7 +423,7 @@ Pasamos ahora a mostrar nuestro **atomic design**, pasando de elementos menos co
 
 
 
-Toda esta información se pued encontrar en nuestro archivo figma en el apartado foundations [Enlace a figma]() y de forma más detallada en [readme P3](P3/readme.md).
+Toda esta información se pued encontrar en nuestro archivo figma en el apartado foundations [Enlace a figma](https://www.figma.com/design/w9K92arLfw5JqUDKO7Plbw/Sin-t%C3%ADtulo?node-id=117-670&t=nBujD050YiJlEZRR-0) y de forma más detallada en [readme P3](P3/readme.md).
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
@@ -442,7 +442,7 @@ Cada sección tiene un enlace a su dirección en **Google Maps**.
 ---
 En esta práctica hemos establecido un prototipo en alta fidelidad del proyecto. Para ello nos hemos servido de una Moodboard, una Landing Page hecha con Figma Make y un Design System.
 
-La Landing Page la hemos hecho con Figma Make. En ella, pudimos ver una primera propuesta de como debería quedar nuestra página, y nos sirvió como punto de apoyo para crear el layout posteriormente.
+La Landing Page la hemos hecho con Figma Make. En ella, pudimos ver una primera propuesta de como debería quedar nuestra página, y nos sirvió como punto de apoyo para crear el layout posteriormente. Podemos concluir en cuánto a la IA que supuso una buena base sobre la que insipirar el design system. A su vez, fue de vital importancia la información de nuestra moodboard así como detallar los prompts para generar un resultado satisfactorio. Aun así, la IA no es perfecta. Por ejemplo hubo que recordar la inclusión del logo en la cabecera.
 El proceso de creación requirió de varios prompts en los que refinamos la estética de acuerdo a nuestros requisitos.
 
 Con todos estos elementos, consideramos que hemos creado un mockup consistente, con una estética atractiva para el público de la página, pero que mantiene o incluso mejora la simplicidad a la hora de navegar entre secciones y elimina elementos redundantes que había en la página original.
