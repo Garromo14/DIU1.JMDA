@@ -116,3 +116,14 @@ Los botones cambian de variante al hacer hover y te dirigen a la página corresp
 ![tabernas](img/tabernas.png)
 Cada sección tiene un enlace a su dirección en **Google Maps**.
 ![news](img/news.png)
+
+### 3.e Briefing
+
+En esta práctica hemos establecido un prototipo en alta fidelidad del proyecto. Para ello nos hemos servido de una Moodboard en la que hemos definido la identidad visual y la filosofía del prototipo. Elegimos colores en concordancia con la estética anime propuesta y buscamos referencias para usar de inspiración.
+
+La Landing Page la hemos hecho con Figma Make. En ella, pudimos ver una primera propuesta de como debería quedar nuestra página, y nos sirvió como punto de apoyo para crear el layout posteriormente.
+El proceso de creación requirió de varios prompts en los que refinamos la estética de acuerdo a nuestros requisitos.
+
+En el Design System preparamos los componentes necesarios para el layout en Atomic Design. En él hemos definido la tipografía, colores, tamaño de letra y espaciados y compomentes base ordenados desde átomos hasta patrones.
+
+Con todos estos elementos, consideramos que hemos creado un mockup consistente, con una estética atractiva para el público de la página, pero que mantiene o incluso mejora la simplicidad a la hora de navegar entre secciones y elimina elementos redundantes que había en la página original.
