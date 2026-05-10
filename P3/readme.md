@@ -101,7 +101,7 @@ Para comenzar con los patrones, destacamos un **formulario básico**. Este estar
 
 Finalizamos el design system con los organismos **fila cards** y **contenedor platos**. Como sus propios nombres indican, estos representarán una fila de dos cards de platos y el contenedor en negro que contiene a estos platos. En lugar de hacer un patrón único combinando estas dos, se ha obtado por hacerlo por separado ya que en un contenedor de platos no tiene por qué haber sólo dos platos ( una fila cards ) sino que esta cantidad es variable. Es por esto que se deja la responsabilidad al diseñador de establecer el tamaño adecuado del contenedor e incluir tantas fila card o card individuales como desee.
 
-Toda esta información se pued encontrar en nuestro archivo figma en el apartado foundations [Enlace a figma]().
+Toda esta información se pued encontrar en nuestro archivo figma en el apartado foundations [Enlace a figma](https://www.figma.com/design/w9K92arLfw5JqUDKO7Plbw/Sin-t%C3%ADtulo?node-id=117-670&t=QzEl1p2PlpnCRI09-0).
 
 
 ### 3.d Mockup
@@ -122,7 +122,7 @@ Cada sección tiene un enlace a su dirección en **Google Maps**.
 En esta práctica hemos establecido un prototipo en alta fidelidad del proyecto. Para ello nos hemos servido de una Moodboard en la que hemos definido la identidad visual y la filosofía del prototipo. Elegimos colores en concordancia con la estética anime propuesta y buscamos referencias para usar de inspiración.
 
 La Landing Page la hemos hecho con Figma Make. En ella, pudimos ver una primera propuesta de como debería quedar nuestra página, y nos sirvió como punto de apoyo para crear el layout posteriormente.
-El proceso de creación requirió de varios prompts en los que refinamos la estética de acuerdo a nuestros requisitos.
+El proceso de creación requirió de varios prompts en los que refinamos la estética de acuerdo a nuestros requisitos. Podemos concluir en cuánto a la IA que supuso una buena base sobre la que insipirar el design system. A su vez, fue de vital importancia la información de nuestra moodboard así como detallar los prompts para generar un resultado satisfactorio. Aun así, la IA no es perfecta. Por ejemplo hubo que recordar la inclusión del logo en la cabecera.
 
 En el Design System preparamos los componentes necesarios para el layout en Atomic Design. En él hemos definido la tipografía, colores, tamaño de letra y espaciados y compomentes base ordenados desde átomos hasta patrones.
 
