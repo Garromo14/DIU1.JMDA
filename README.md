@@ -428,9 +428,24 @@ Toda esta información se pued encontrar en nuestro archivo figma en el apartado
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+A partir del Design System realizado, podemos construir las páginas para nuestra web.
+![carta](img/carta.png)
+Es una imitación de la landing page que había generado Figma Make. Nada más entrar a la página nos encontramos con la carta. Al clicar un componente de la hero section te desplaza al apartado correspondiente de la página.
+![reserva](img/reserva.png)
+Los botones cambian de variante al hacer hover y te dirigen a la página correspondiente al clicar.
+![online](img/online.png)
+![tabernas](img/tabernas.png)
+Cada sección tiene un enlace a su dirección en **Google Maps**.
+![news](img/news.png)
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+### 3.e Briefing
+---
+En esta práctica hemos establecido un prototipo en alta fidelidad del proyecto. Para ello nos hemos servido de una Moodboard, una Landing Page hecha con Figma Make y un Design System.
 
+La Landing Page la hemos hecho con Figma Make. En ella, pudimos ver una primera propuesta de como debería quedar nuestra página, y nos sirvió como punto de apoyo para crear el layout posteriormente.
+El proceso de creación requirió de varios prompts en los que refinamos la estética de acuerdo a nuestros requisitos.
+
+Con todos estos elementos, consideramos que hemos creado un mockup consistente, con una estética atractiva para el público de la página, pero que mantiene o incluso mejora la simplicidad a la hora de navegar entre secciones y elimina elementos redundantes que había en la página original.
 
 <br>
 
