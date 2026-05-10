@@ -429,14 +429,14 @@ Toda esta información se pued encontrar en nuestro archivo figma en el apartado
 ![Método UX](img/mockup.png) 
 ----
 A partir del Design System realizado, podemos construir las páginas para nuestra web.
-![carta](img/carta.png)
+![carta](P3/img/carta.png)
 Es una imitación de la landing page que había generado Figma Make. Nada más entrar a la página nos encontramos con la carta. Al clicar un componente de la hero section te desplaza al apartado correspondiente de la página.
-![reserva](img/reserva.png)
+![reserva](P3/img/reserva.png)
 Los botones cambian de variante al hacer hover y te dirigen a la página correspondiente al clicar.
-![online](img/online.png)
-![tabernas](img/tabernas.png)
+![online](P3/img/online.png)
+![tabernas](P3/img/tabernas.png)
 Cada sección tiene un enlace a su dirección en **Google Maps**.
-![news](img/news.png)
+![news](P3/img/news.png)
 
 ### 3.e Briefing
 ---
