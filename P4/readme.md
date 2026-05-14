@@ -1,17 +1,7 @@
 # DIU - Practica 4, entregables
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
+## 1. Migración a React y publicación.
 
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
-
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+En este apartado, buscamos de alguna forma dotar de funcionalidad a nuestro diseño en figma. Se pretende pasar de diseño a la base para una aplicación en react. En la práctica anterior, definimos un design system que usamos para definir layouts responsive de nuestras diferentes páginas del sitio web. Estos layouts generados en forma de frames se seleccionarán para generar una url de cara a la evaluación en la práctica 5. 
+Para ello en un inicio se hizo uso del plugin **locofy**. Este plugin generaba código react y lo integraba en un proyecto definido. Hubo ciertas complicaciones porque los diseños generados no eran los esperados. Es por esto que, tras la consulta con el profesor, se buscó otra opción. La opción propuesta fue mostrar el prototipo y compartir el enlace generado para su publicación. Este fue el resultado:
+[Enlace a landing page](https://www.figma.com/proto/w9K92arLfw5JqUDKO7Plbw/Sin-t%C3%ADtulo?node-id=137-455&t=EmeK6mC2S78GZdoC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=137%3A455).
